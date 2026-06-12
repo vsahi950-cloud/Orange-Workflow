@@ -27,12 +27,6 @@ After running the evaluation via the **Test and Score** widget, the model achiev
 
 *(Note: Replace 0.XX with the actual scores visible when you double-click your "Test and Score" widget)*
 
-### Confusion Matrix
-Below is the evaluation screenshot showing the performance breakdown and confusion matrix:
-
-![Evaluation Results](path/to/your/test_and_score_screenshot.png)
-
----
 
 ## 🛠️ How to Run This Project
 
